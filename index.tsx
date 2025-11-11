@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import { Chart, registerables } from 'chart.js';
 import 'chart.js/auto';
+import './index.css';
 
 // Register all Chart.js components
 Chart.register(...registerables);
