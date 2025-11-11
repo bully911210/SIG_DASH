@@ -1,0 +1,5 @@
+{
+  "name": "SIG Solutions Sales Dashboard",
+  "description": "An analytics web app for SIG Solutions to upload, analyze, and visualize sales datasets. It provides operational insights, identifies problem areas, and allows data exports.",
+  "requestFramePermissions": []
+}
